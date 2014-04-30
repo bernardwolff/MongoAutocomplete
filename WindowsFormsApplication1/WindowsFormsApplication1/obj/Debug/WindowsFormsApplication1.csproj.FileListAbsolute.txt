@@ -14,3 +14,19 @@ c:\users\bernard.wolff\documents\visual studio 2012\Projects\WindowsFormsApplica
 c:\users\bernard.wolff\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\shellAutoComplete.js
 c:\users\bernard.wolff\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
 c:\users\bernard.wolff\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\shellAutoComplete.js
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MongoDB.Bson.dll
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.dll
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MongoDB.Bson.xml
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.xml
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Projects\MongoAutoComplete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
